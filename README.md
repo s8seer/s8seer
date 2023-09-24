@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### https://s8seer.github.io/
+#### [https://s8seer.github.io/](https://s8seer.github.io/aboutme.html)
 <!--
 Here are some ideas to get you started:
 
